@@ -1,4 +1,6 @@
+鉴于原作者已经不再更新了，fork后自行修复bug
 
+原始链接如下：
 
 ![](https://github.com/indulgeIn/YBImageBrowser/blob/master/Images/banner.png)
 
